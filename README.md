@@ -9,6 +9,7 @@
 - 🐍 I mainly identify as a Python developer (though I'm terrified of snakes) and I'm currently working on a lot of Django projects.
 - 👨‍🏫 I work as a student assistant, teaching some (bachelor) courses at my university
 - 🖼️ I do a lot of work as graphic designer
+- 🍎 I have a MacBook (and an iPhone) (and an Apple Watch) (yes, I'm a Apple user)
 - 🏋️ I like to spend time in the gym (and occasionally even go for a run).
 - 🏉 I recently started playing rugby.
 - 🌐 I still haven't made a personal portfolio website...
