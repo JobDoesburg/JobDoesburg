@@ -13,5 +13,5 @@
 - 🍎 I have a MacBook (and an iPhone) (and an Apple Watch) (yes, I'm a Apple user).
 - 🏋️ I like to spend time in the gym (and occasionally even go for a run).
 - 🏉 I recently started playing rugby.
-- 🌐 I still haven't made a personal portfolio website...
+- 🌐 Check out my personal website at https://jobdoesburg.nl
 - 🔑 For **PGP**, have a look at https://gist.github.com/JobDoesburg/3188a84d7258e117005f16c7ea9a46cb.
