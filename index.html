@@ -84,7 +84,7 @@
           <ul class="list-unstyled">
             <li class="mb-3">
               <strong>Privacy-preserving system evolution through micropseudonymization as a service</strong><br>
-              <span class="text-secondary">SURF talk· 12-05-2026</span>
+              <span class="text-secondary">SURF talk · 12-05-2026</span>
             </li>
             <li class="mb-3">
               <strong>Duurzame data - AI, energie & onderwijs</strong><br>
@@ -291,6 +291,9 @@
             <li class="mb-3">
               <strong><a class="link-light" href="https://www.linkedin.com/in/pascal-van-gastel-5851642/" target="_blank">Pascal van Gastel</a></strong>
             </li>
+            <li class="mb-3">
+              <strong><a class="link-light" href="https://www.linkedin.com/in/victor-z1389" target="_blank">Victor Zudilin</a></strong>
+            </li>
           </ul>
         </div>
         <div class="col-12 col-lg-8">
@@ -300,6 +303,25 @@
             If you are interested in one of these projects, or if you have your own idea, please feel free to contact me.
           </p>
           <ul class="list-unstyled">
+            <li class="mb-2">
+              <details>
+                <summary>
+                  <strong>Post-quantum PEP: RLWE proxy re-encryption with integrated pseudonymization</strong><br>
+                </summary>
+                <p class="mt-2 text-secondary">
+                  Typical end-to-end encryption (E2EE) relies on public key cryptography, where the sender uses the public key of the recipient to encrypt data for.
+                  (Homomorphic) Proxy re-encryption ((H)PRE) systems are an alternative to this, where instead a central party transforms ciphertexts for the key of user A into ciphertexts for the key of user B, without this party being able to decrypt the message itself.
+                  This also enables E2EE data sharing, without the sender needing to specify the recipient, which enables some interesting use cases.
+                  The PEP (Polymorphic Encryption and Pseudonymization) framework uses this principle to enable end-to-end encrypted data sharing with integrated pseudonymization.
+                  This pseudonymization further improves privacy during data sharing and also enables various interesting use cases.
+                  PEP has applications in, among others, a medical research data repository (see <a class="link-secondary" href="https://pep.cs.ru.nl" target="_blank">pep.cs.ru.nl</a>), the <a class="link-secondary" href="https://pubhubs.net" target="_blank">PubHubs</a> social media platform and the Dutch DigiD Hoog eID system.
+                  The PEP framework is based on ElGamal encryption, which bases its security on the discrete logarithm problem.
+                  This problem, however, is not quantum safe, which is especially problematic for long term data storage, which is one of the key use-cases for PEP.
+                  Recently, there have been proposals for proxy re-encryption schemes based on the <a class="link-secondary" href="https://ieeexplore.ieee.org/abstract/document/10885766" target="_blank">RLWE (Ring Learning With Errors)</a> problem, which is quantum safe.
+                  The purpose of the research is to extend these RLWE-(H)PRE systems with integrated pseudonymization of identifiers, similar to how existing PEP does so for ElGamal-based (H)PRE systems (or, formulated differently, to replace the ElGamal PEP primitives with RLWE primitives).
+                </p>
+              </details>
+            </li>
             <li class="mb-2">
               <details>
                 <summary>
